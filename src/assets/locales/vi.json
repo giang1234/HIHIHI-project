@@ -1,0 +1,23 @@
+{
+   "trans_menu": {
+      "order": "Đơn hàng",
+      "likes": "Yêu thích",
+      "card": "Rỏ hàng",
+      "notice": "Thông báo",
+      "account": "Tài khoản",
+      "mother_baby": "Mẹ và bé",
+      "household_utensi": "Dụng cụ gia đình",
+      "take_care_of_life": "Chăm sóc cuộc sống",
+      "other": "Khác",
+      "recruit": "Tuyển dụng",
+      "download_application": "Tải ứng dụng",
+      "connect": "Kết nối",
+      "user": "Tài khoản",
+      "home": "Trang chủ"
+   },
+   "payment": {
+      "voucher": "Voucher",
+      "impart": "Vận chuyển",
+      "invoice_infomation": "Thông tin xuất hoá đơn"
+   }
+}

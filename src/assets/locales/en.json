@@ -1,0 +1,23 @@
+{
+    "trans_menu": {
+        "order": "Order",
+        "likes": "Likes",
+        "card": "Card",
+        "notice": "Notice",
+        "account": "Account",
+        "mother_baby": "Mother and baby",
+        "household_utensi": "Household utensi",
+        "take_care_of_life": "Take care of life",
+        "other": "Other",
+        "recruit": "Recruit",
+        "download_application": "Download application",
+        "connect": "Connect",
+        "user": "Account",
+        "home": "Home"
+    },
+    "payment": {
+        "voucher": "Voucher",
+        "impart": "Impart",
+        "invoice_infomation": "Invoice infomation"
+    }
+}
